@@ -1,5 +1,3 @@
-Application version: 0.1.0. / Last Update: 23.06.2024
-
 > [!NOTE]
 > This website is a fan-made website and was made for myself. I realized a website with this idea back in 2020, but it was realized very simply and poorly. Now, I decided to completely redesign it by changing the technology and its design. Unfortunately, the site is only available in Russian, as it was originally intended for the Russian-speaking audience.
 
@@ -30,19 +28,19 @@ Certain technologies were used to develop the project, each playing a different 
 To run this project, make sure that you have installed Python. Use Terminal.
 
 To install Flask use:
-'''
+```
 pip install Flask
-'''
+```
 
 To switch to the project directory use:
-'''
+```
 cd path/to/nickgenerator
-'''
+```
 
 Run Python's built-in HTTP server:
-'''
+```
 python generator.py
-'''
+```
 
 Go to your browser and open http://127.0.0.1:5000 to use the nickname generator
 
