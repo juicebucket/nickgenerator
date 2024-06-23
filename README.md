@@ -1,5 +1,5 @@
 > [!NOTE]
-> This website is a fan-made website and was made for myself. I realized a website with this idea back in 2020, but it was realized very simply and poorly. Now, I decided to completely redesign it by changing the technology and its design. Unfortunately, the site is only available in Russian, as it was originally intended for the Russian-speaking audience.
+> I implemented this website for myself back in 2020. However, it was implemented with a lot of errors and poor quality. Now, I decided to return to my idea and realize the website from scratch using new technologies. Unfortunately, the site is only available in Russian (maybe in the near future I will add English localization), as it was originally intended for the Russian-speaking audience. 
 
 ## Overview
 **ROLEPLAY NICKNAME GENERATOR** is a web application designed to generate unique and memorable nicknames for RolePlay games such as SAMP, CRMP, GTA5, Garry's Mod, and more. By selecting the character's gender and nationality, you can quickly generate a nickname that fits your character's profile.
