@@ -26,10 +26,10 @@ Website version: 1.0.0. / Last Update: 17.06.2024
 ### Technologies and Development
 This project was developed using the following technologies:
 
-- Back-end Framework: Flask
-- Markup and Styling: HTML/CSS
-- Client-Side Scripting: JavaScript
-- Data Storage: JSON
+- Back-end Framework: **Flask**
+- Markup and Styling: **HTML/CSS**
+- Client-Side Scripting: **JavaScript**
+- Data Storage: **JSON**
 
 ---
 
